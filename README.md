@@ -24,4 +24,4 @@ Add the required JDBC driver to your project
 Compile and run each program individually
 
 👤 Author
-Alok Kumar 
+Aloka Kumar Gouda
